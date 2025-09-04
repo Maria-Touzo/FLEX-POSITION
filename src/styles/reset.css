@@ -1,0 +1,15 @@
+/* Reiniciar todos os elementos */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* Tira as bolinhas */
+    list-style: none;
+    /* Tira o sublinhado do link */
+    text-decoration: none;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
