@@ -1,0 +1,26 @@
+.speaker-card{
+    display: flex;
+    align-items:ce;
+}
+
+.speaker-card:hover{
+
+}
+
+.speaker-card img{
+    height: 200px;
+    width: 200px;
+    justify-content: space-between;
+}
+
+.speaker-card figcaption{
+
+}
+
+.speaker-card h3{
+
+}
+
+.speaker-card p{
+
+}
