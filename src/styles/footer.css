@@ -1,0 +1,41 @@
+/* Estilos para o footer */
+
+/* Container principal */
+.footer-content{
+    
+}
+
+/* container da esquerda */
+.footer-address{
+
+}
+
+/* Título do container da esquerda (filho) */
+.footer-address__title{
+
+}
+
+/* container do meio */
+.footer-info{
+
+}
+
+/* container da direita */
+.footer-social{
+
+}
+
+/* container da direita (filho footer-social) */
+.footer-social ul{
+
+}
+
+/* container da direita (filho da ul) */
+.footer-social img{
+
+}
+
+/* classe responsável por aplicar o efeito em todos os ícones das redes  */
+.effect:hover{
+
+}

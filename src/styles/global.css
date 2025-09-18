@@ -21,6 +21,7 @@ html{
 .content-nosso-time{
     background-color: rgb(247, 217, 245);
     justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 
 .content-cursos{
