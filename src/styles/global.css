@@ -36,6 +36,24 @@ html{
     background-color: rgb(160, 107, 140);
 }
 
+.whatsapp-button{
+    position: fixed;
+    /* Distância do rodapé */
+    bottom: 100px;
+    /* Distãncia da lateral */
+    right: 96px;
+    filter: drop-shadow 0 0 4px rgb(221, 125, 172);
+    z-index: 1000;
+    transition: transform 0,3s ease, box-shadow 0.3s ease ;
+}
+
+.whatsapp-button img{
+    width: 40px;
+}
+
+.whatsapp-button:hover{
+    transform: scale(1.1);
+}
 
 .main-content{
     width: 100%;
